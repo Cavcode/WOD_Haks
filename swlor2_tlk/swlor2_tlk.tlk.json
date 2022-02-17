@@ -53007,35 +53007,35 @@
     },
     {
       "id": 81885,
-      "text": "Starship Blueprints I"
+      "text": "Chi I"
     },
     {
       "id": 81886,
-      "text": "Starship Blueprints II"
+      "text": "Chi II"
     },
     {
       "id": 81887,
-      "text": "Starship Blueprints III"
+      "text": "Chi III"
     },
     {
       "id": 81888,
-      "text": "Module Blueprints I"
+      "text": "Starship Blueprints I"
     },
     {
       "id": 81889,
-      "text": "Module Blueprints II"
+      "text": "Starship Blueprints II"
     },
     {
       "id": 81890,
-      "text": "Module Blueprints III"
+      "text": "Starship Blueprints III"
     },
     {
       "id": 81891,
-      "text": "Module Blueprints IV"
+      "text": "Starship Blueprints IV"
     },
     {
       "id": 81892,
-      "text": "Module Blueprints V"
+      "text": "Starship Blueprints V"
     },
     {
       "id": 81893,
@@ -55059,35 +55059,35 @@
     },
     {
       "id": 82398,
-      "text": "Grants access to tier 1 Starship blueprints."
+      "text": "Restores your HP by a base amount of 45 points."
     },
     {
       "id": 82399,
-      "text": "Grants access to tier 2 Starship blueprints."
+      "text": "Restores your HP by a base amount of 115 points."
     },
     {
       "id": 82400,
-      "text": "Grants access to tier 3 Starship blueprints."
+      "text": "Restores your HP by a base amount of 150 points."
     },
     {
       "id": 82401,
-      "text": "Grants access to tier 1 Ship Module blueprints."
+      "text": "Grants access to tier 1 Ship and Module blueprints."
     },
     {
       "id": 82402,
-      "text": "Grants access to tier 2 Ship Module blueprints."
+      "text": "Grants access to tier 2 Ship and Module blueprints."
     },
     {
       "id": 82403,
-      "text": "Grants access to tier 3 Ship Module blueprints."
+      "text": "Grants access to tier 3 Ship and Module blueprints."
     },
     {
       "id": 82404,
-      "text": "Grants access to tier 4 Ship Module blueprints."
+      "text": "Grants access to tier 4 Ship and Module blueprints."
     },
     {
       "id": 82405,
-      "text": "Grants access to tier 5 Ship Module blueprints."
+      "text": "Grants access to tier 5 Ship and Module blueprints."
     },
     {
       "id": 82406,
@@ -56211,15 +56211,15 @@
     },
     {
       "id": 82686,
-      "text": "Bacta Recovery I"
+      "text": "Kolto Recovery I"
     },
     {
       "id": 82687,
-      "text": "Bacta Recovery II"
+      "text": "Kolto Recovery II"
     },
     {
       "id": 82688,
-      "text": "Bacta Recovery III"
+      "text": "Kolto Recovery III"
     },
     {
       "id": 82689,
@@ -56594,6 +56594,218 @@
       "text": "Enhancement Level:"
     },
     {
+      "id": 82782,
+      "text": "Primary Stat"
+    },
+    {
+      "id": 82783,
+      "text": "Primary Stat:"
+    },
+    {
+      "id": 82784,
+      "text": "Rapid Synthesis (Cooking)"
+    },
+    {
+      "id": 82785,
+      "text": "Careful Synthesis (Cooking)"
+    },
+    {
+      "id": 82786,
+      "text": "Basic Touch (Cooking)"
+    },
+    {
+      "id": 82787,
+      "text": "Standard Touch (Cooking)"
+    },
+    {
+      "id": 82788,
+      "text": "Precise Touch (Cooking)"
+    },
+    {
+      "id": 82789,
+      "text": "Master's Mend (Cooking)"
+    },
+    {
+      "id": 82790,
+      "text": "Steady Hand (Cooking)"
+    },
+    {
+      "id": 82791,
+      "text": "Muscle Memory (Cooking)"
+    },
+    {
+      "id": 82792,
+      "text": "Veneration (Cooking)"
+    },
+    {
+      "id": 82793,
+      "text": "Waste Not (Cooking)"
+    },
+    {
+      "id": 82794,
+      "text": "Cooking Recipes I"
+    },
+    {
+      "id": 82795,
+      "text": "Cooking Recipes II"
+    },
+    {
+      "id": 82796,
+      "text": "Cooking Recipes III"
+    },
+    {
+      "id": 82797,
+      "text": "Cooking Recipes IV"
+    },
+    {
+      "id": 82798,
+      "text": "Cooking Recipes V"
+    },
+    {
+      "id": 82799,
+      "text": "Grants access to tier 1 Cooking recipes."
+    },
+    {
+      "id": 82800,
+      "text": "Grants access to tier 2 Cooking recipes."
+    },
+    {
+      "id": 82801,
+      "text": "Grants access to tier 3 Cooking recipes."
+    },
+    {
+      "id": 82802,
+      "text": "Grants access to tier 4 Cooking recipes."
+    },
+    {
+      "id": 82803,
+      "text": "Grants access to tier 5 Cooking recipes."
+    },
+    {
+      "id": 82804,
+      "text": "Food"
+    },
+    {
+      "id": 82805,
+      "text": "Food Bonus"
+    },
+    {
+      "id": 82806,
+      "text": "HP"
+    },
+    {
+      "id": 82807,
+      "text": "FP"
+    },
+    {
+      "id": 82808,
+      "text": "STM"
+    },
+    {
+      "id": 82809,
+      "text": "HP Regen"
+    },
+    {
+      "id": 82810,
+      "text": "FP Regen"
+    },
+    {
+      "id": 82811,
+      "text": "STM Regen"
+    },
+    {
+      "id": 82812,
+      "text": "Rest Regen"
+    },
+    {
+      "id": 82813,
+      "text": "XP Bonus"
+    },
+    {
+      "id": 82814,
+      "text": "Recast Reduction"
+    },
+    {
+      "id": 82815,
+      "text": "Duration"
+    },
+    {
+      "id": 82816,
+      "text": "Structure Enhancement"
+    },
+    {
+      "id": 82817,
+      "text": "Structure Enhancement:"
+    },
+    {
+      "id": 82818,
+      "text": "Food Enhancement"
+    },
+    {
+      "id": 82819,
+      "text": "Food Enhancement:"
+    },
+    {
+      "id": 82820,
+      "text": "Starship Enhancement"
+    },
+    {
+      "id": 82821,
+      "text": "Starship Enhancement:"
+    },
+    {
+      "id": 82822,
+      "text": "Module Enhancement"
+    },
+    {
+      "id": 82823,
+      "text": "Module Enhancement:"
+    },
+    {
+      "id": 82824,
+      "text": "Rapid Synthesis (Engineering)"
+    },
+    {
+      "id": 82825,
+      "text": "Careful Synthesis (Engineering)"
+    },
+    {
+      "id": 82826,
+      "text": "Basic Touch (Engineering)"
+    },
+    {
+      "id": 82827,
+      "text": "Standard Touch (Engineering)"
+    },
+    {
+      "id": 82828,
+      "text": "Precise Touch (Engineering)"
+    },
+    {
+      "id": 82829,
+      "text": "Master's Mend (Engineering)"
+    },
+    {
+      "id": 82830,
+      "text": "Steady Hand (Engineering)"
+    },
+    {
+      "id": 82831,
+      "text": "Muscle Memory (Engineering)"
+    },
+    {
+      "id": 82832,
+      "text": "Veneration (Engineering)"
+    },
+    {
+      "id": 82833,
+      "text": "Waste Not (Engineering)"
+    },
+    {
+      "id": 94984,
+      "text": "Cooking Recipes"
+    },
+    {
       "id": 94985,
       "text": "HP Bonus"
     },
@@ -56644,6 +56856,14 @@
     {
       "id": 94997,
       "text": "Dual Pistols"
+    },
+    {
+      "id": 94998,
+      "text": "Treasure Hunter"
+    },
+    {
+      "id": 94999,
+      "text": "Creditfinder"
     },
     {
       "id": 95000,
@@ -57114,6 +57334,10 @@
       "text": "Boots"
     },
     {
+      "id": 95117,
+      "text": "Frag Grenade I"
+    },
+    {
       "id": 95118,
       "text": "Starships"
     },
@@ -57154,6 +57378,10 @@
       "text": "Stim Packs"
     },
     {
+      "id": 95128,
+      "text": "Frag Grenade II"
+    },
+    {
       "id": 95129,
       "text": "One-Handed Blueprints"
     },
@@ -57170,6 +57398,10 @@
       "text": "Ranged Blueprints"
     },
     {
+      "id": 95133,
+      "text": "Frag Grenade III"
+    },
+    {
       "id": 95134,
       "text": "Armor Blueprints"
     },
@@ -57178,8 +57410,36 @@
       "text": "Accessory Blueprints"
     },
     {
+      "id": 95136,
+      "text": "Concussion Grenade I"
+    },
+    {
+      "id": 95137,
+      "text": "Concussion Grenade II"
+    },
+    {
+      "id": 95138,
+      "text": "Concussion Grenade III"
+    },
+    {
+      "id": 95139,
+      "text": "Flashbang Grenade I"
+    },
+    {
+      "id": 95140,
+      "text": "Flashbang Grenade II"
+    },
+    {
+      "id": 95141,
+      "text": "Flashbang Grenade III"
+    },
+    {
       "id": 95142,
       "text": "Implant Installation"
+    },
+    {
+      "id": 95143,
+      "text": "Ion Grenade I"
     },
     {
       "id": 95144,
@@ -57200,6 +57460,14 @@
     {
       "id": 95148,
       "text": "Body Implant Blueprints"
+    },
+    {
+      "id": 95149,
+      "text": "Chi"
+    },
+    {
+      "id": 95150,
+      "text": "Ion Grenade II"
     },
     {
       "id": 95151,
@@ -57283,7 +57551,7 @@
     },
     {
       "id": 95171,
-      "text": "Bacta Recovery"
+      "text": "Kolto Recovery"
     },
     {
       "id": 95172,
@@ -57312,6 +57580,382 @@
     {
       "id": 95178,
       "text": "Force Drain"
+    },
+    {
+      "id": 95179,
+      "text": "Ion Grenade III"
+    },
+    {
+      "id": 95180,
+      "text": "Kolto Grenade I"
+    },
+    {
+      "id": 95181,
+      "text": "Kolto Grenade II"
+    },
+    {
+      "id": 95182,
+      "text": "Kolto Grenade III"
+    },
+    {
+      "id": 95183,
+      "text": "Adhesive Grenade I"
+    },
+    {
+      "id": 95184,
+      "text": "Adhesive Grenade II"
+    },
+    {
+      "id": 95185,
+      "text": "Adhesive Grenade III"
+    },
+    {
+      "id": 95186,
+      "text": "Smoke Bomb I"
+    },
+    {
+      "id": 95187,
+      "text": "Smoke Bomb II"
+    },
+    {
+      "id": 95188,
+      "text": "Smoke Bomb III"
+    },
+    {
+      "id": 95189,
+      "text": "Kolto Bomb I"
+    },
+    {
+      "id": 95190,
+      "text": "Kolto Bomb II"
+    },
+    {
+      "id": 95191,
+      "text": "Kolto Bomb III"
+    },
+    {
+      "id": 95192,
+      "text": "Incendiary Bomb I"
+    },
+    {
+      "id": 95193,
+      "text": "Incendiary Bomb II"
+    },
+    {
+      "id": 95194,
+      "text": "Incendiary Bomb III"
+    },
+    {
+      "id": 95195,
+      "text": "Gas Bomb I"
+    },
+    {
+      "id": 95196,
+      "text": "Gas Bomb II"
+    },
+    {
+      "id": 95197,
+      "text": "Gas Bomb III"
+    },
+    {
+      "id": 95198,
+      "text": "Stealth Generator I"
+    },
+    {
+      "id": 95199,
+      "text": "Stealth Generator II"
+    },
+    {
+      "id": 95200,
+      "text": "Stealth Generator III"
+    },
+    {
+      "id": 95201,
+      "text": "Flamethrower I"
+    },
+    {
+      "id": 95202,
+      "text": "Flamethrower II"
+    },
+    {
+      "id": 95203,
+      "text": "Flamethrower III"
+    },
+    {
+      "id": 95204,
+      "text": "Wrist Rocket I"
+    },
+    {
+      "id": 95205,
+      "text": "Wrist Rocket II"
+    },
+    {
+      "id": 95206,
+      "text": "Wrist Rocket III"
+    },
+    {
+      "id": 95207,
+      "text": "Deflector Shield I"
+    },
+    {
+      "id": 95208,
+      "text": "Deflector Shield II"
+    },
+    {
+      "id": 95209,
+      "text": "Deflector Shield III"
+    },
+    {
+      "id": 95210,
+      "text": "Deals fire damage to all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95211,
+      "text": "Deals fire damage to all creatures within range of explosion. Also has a chance to inflict Burning. Consumes explosives on use."
+    },
+    {
+      "id": 95212,
+      "text": "Deals fire damage to all creatures within range of explosion. Also has a chance to inflict Burning. Consumes explosives on use."
+    },
+    {
+      "id": 95213,
+      "text": "Deals fire damage to all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95214,
+      "text": "Deals fire damage to all creatures within range of explosion. Also has a chance to inflict Knockdown. Consumes explosives on use."
+    },
+    {
+      "id": 95215,
+      "text": "Deals fire damage to all creatures within range of explosion. Also has a chance to inflict Knockdown. Consumes explosives on use."
+    },
+    {
+      "id": 95216,
+      "text": "Inflicts blindness on all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95217,
+      "text": "Inflicts blindness on all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95218,
+      "text": "Inflicts blindness on all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95219,
+      "text": "Deals electrical damage to all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95220,
+      "text": "Deals electrical damage to all creatures within range of explosion. Also has a chance to inflict stun to droids. Consumes explosives on use."
+    },
+    {
+      "id": 95221,
+      "text": "Deals electrical damage to all creatures within range of explosion. Also has a chance to inflict stun to droids. Consumes explosives on use."
+    },
+    {
+      "id": 95222,
+      "text": "Grants regeneration to all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95223,
+      "text": "Grants regeneration to all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95224,
+      "text": "Grants regeneration to all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95225,
+      "text": "Inflicts slow on all creatures within range of explosion. Consumes explosives on use."
+    },
+    {
+      "id": 95226,
+      "text": "Inflicts slow on all creatures within range of explosion. Also has a chance to inflict immobilize. Consumes explosives on use."
+    },
+    {
+      "id": 95227,
+      "text": "Inflicts slow on all creatures within range of explosion. Also has a chance to inflict immobilize. Consumes explosives on use."
+    },
+    {
+      "id": 95228,
+      "text": "Creates a smokescreen at the explosion site, granting invisibility to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95229,
+      "text": "Creates a smokescreen at the explosion site, granting invisibility to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95230,
+      "text": "Creates a smokescreen at the explosion site, granting invisibility to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95231,
+      "text": "Creates a Kolto field at the explosion site, granting HP regeneration to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95232,
+      "text": "Creates a Kolto field at the explosion site, granting HP regeneration to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95233,
+      "text": "Creates a Kolto field at the explosion site, granting HP regeneration to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95234,
+      "text": "Creates a fire field at the explosion site, dealing fire damage to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95235,
+      "text": "Creates a fire field at the explosion site, dealing fire damage to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95236,
+      "text": "Creates a fire field at the explosion site, dealing fire damage to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95237,
+      "text": "Creates a poison field at the explosion site, dealing poison damage to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95238,
+      "text": "Creates a poison field at the explosion site, dealing poison damage to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95239,
+      "text": "Creates a poison field at the explosion site, dealing poison damage to all creatures who enter the area of effect. Consumes explosives on use."
+    },
+    {
+      "id": 95240,
+      "text": "Grants invisibility to the user for a short period of time."
+    },
+    {
+      "id": 95241,
+      "text": "Grants invisibility to the user for a short period of time."
+    },
+    {
+      "id": 95242,
+      "text": "Grants invisibility to the user for a short period of time."
+    },
+    {
+      "id": 95243,
+      "text": "Deals fire damage to all targets within a cone in front of the user."
+    },
+    {
+      "id": 95244,
+      "text": "Deals fire damage to all targets within a cone in front of the user. Also has a chance to inflict Burning."
+    },
+    {
+      "id": 95245,
+      "text": "Deals fire damage to all targets within a cone in front of the user. Also has a chance to inflict Burning."
+    },
+    {
+      "id": 95246,
+      "text": "Inflicts fire damage to a single target."
+    },
+    {
+      "id": 95247,
+      "text": "Inflicts fire damage to a single target. Also has a chance to inflict Knockdown."
+    },
+    {
+      "id": 95248,
+      "text": "Inflicts fire damage to a single target. Also has a chance to inflict Knockdown."
+    },
+    {
+      "id": 95249,
+      "text": "Grants temporary hit points to the user for a short period of time."
+    },
+    {
+      "id": 95250,
+      "text": "Grants temporary hit points to the user for a short period of time."
+    },
+    {
+      "id": 95251,
+      "text": "Grants temporary hit points to the user and all nearby party members for a short period of time."
+    },
+    {
+      "id": 95252,
+      "text": "Frag Grenade"
+    },
+    {
+      "id": 95253,
+      "text": "Concussion Grenade"
+    },
+    {
+      "id": 95254,
+      "text": "Flashbang Grenade"
+    },
+    {
+      "id": 95255,
+      "text": "Ion Grenade"
+    },
+    {
+      "id": 95256,
+      "text": "Kolto Grenade"
+    },
+    {
+      "id": 95257,
+      "text": "Adhesive Grenade"
+    },
+    {
+      "id": 95258,
+      "text": "Smoke Bomb"
+    },
+    {
+      "id": 95259,
+      "text": "Kolto Bomb"
+    },
+    {
+      "id": 95260,
+      "text": "Incendiary Bomb"
+    },
+    {
+      "id": 95261,
+      "text": "Gas Bomb"
+    },
+    {
+      "id": 95262,
+      "text": "Stealth Generator"
+    },
+    {
+      "id": 95263,
+      "text": "Flamethrower"
+    },
+    {
+      "id": 95264,
+      "text": "Wrist Rocket"
+    },
+    {
+      "id": 95265,
+      "text": "Deflector Shield"
+    },
+    {
+      "id": 95266,
+      "text": "Demolition Expert"
+    },
+    {
+      "id": 95267,
+      "text": "Demolition Expert I"
+    },
+    {
+      "id": 95268,
+      "text": "Demolition Expert II"
+    },
+    {
+      "id": 95269,
+      "text": "Demolition Expert III"
+    },
+    {
+      "id": 95270,
+      "text": "10% chance to use a Devices ability without consuming explosives."
+    },
+    {
+      "id": 95271,
+      "text": "20% chance to use a Devices ability without consuming explosives."
+    },
+    {
+      "id": 95272,
+      "text": "30% chance to use a Devices ability without consuming explosives."
     },
     {
       "id": 120000,
@@ -64912,6 +65556,26 @@
     {
       "id": 192510,
       "text": "Bonuses: +1 PER\nPenalties: -2 SOC\nStarting Languages: Galactic Basic, Rodian\n\nRodians were a species of reptilian humanoids. They possessed large pupil-less eyes that could see in infrared spectrum, slender snouts, pointed ears, twin saucer-like antennae that detected vibrations atop their heads, and a ridge of spines cresting their skulls. Green scales (sometimes yellow or turquoise) covered their bodies, and their skin had a rough, pebbly texture, except on the snout and hands. They are cold blooded and have blood of a green color. The flexible snouts augmented the Rodians' finely tuned olfactory senses, collecting and filtering the air. Their characteristically large eyes indicated a primarily nocturnal ancestry and were capable of seeing into the infrared part of the spectrum. This allowed the Rodians to visually detect the body heat of their hidden prey emanating from within the darkness.\n\nRodian culture was obsessed with violence and death, due to behaviors and practices that were ingrained since their earliest ancestry. Their densely packed jungle homeworld was ill-suited for agriculture, requiring Rodians to compete with vicious predators for most of their food. Some of these predators, such as ghests, could wipe out entire Rodian villages. As the Rodians developed cunning hunting tactics to survive, the hunt became central to their culture. Eventually they began to hunt each other in various wars and gladiatorial contests.\n\nFor what many would consider a vicious and bloodthirsty species, Rodians were renowned for their drama. Rodian Theater began as a simple series of staged fights, encouraged to burn off their aggression. Over time, it developed into a vibrant—albeit violent—theatrical tradition. The Rodian people managed to produce artists, merchants, and politicians who were found even among the upper classes of the Core Worlds. Rodians greeted or showed respect to others with a salute consisting of an open-palmed hand across the chest, either with one or both arms. "
+    },
+    {
+      "id": 192511,
+      "text": "Kel Dor"
+    },
+    {
+      "id": 192512,
+      "text": "Kel Dor"
+    },
+    {
+      "id": 192513,
+      "text": "kel dor"
+    },
+    {
+      "id": 192514,
+      "text": "Kel Dors"
+    },
+    {
+      "id": 192515,
+      "text": "Bonuses: +1 WIL\nPenalties: -1 VIT\nStarting Languages: Galactic Basic, Kel Dor\n\nThe Kel Dors were a tall race, typically of the same height and weight as Humans. Their skin ranged in color from peach to a crimson red. Most had dark, black eyes, although some were born with silver irises, a mark that was often seen as an affinity for the Force.\n\nDue to Dorin having a unique atmosphere composed of helium and a gas unique to their world, the Kel Dors were forced to wear an antiox breath mask and protective goggles whenever in atmospheres of a different composition. This equipment protected them from carbon dioxide, nitrogen, and oxygen, which were fatal to a Kel Dor. The breathing mask also helped to amplify the Kel Dor's voice, as they were forced to shout to produce any sound when out of their native atmosphere. Without their protective goggles, Kel Dors were considered effectively blind when away from Dorin. They were also able to survive in the vacuum of space for a short time, though it was unknown exactly how long they could withstand it.\n\nThe Kel Dors were aware of and used the Force long before they joined the Galactic Republic and the Jedi. This proud Force tradition was known as the Baran Do Sages. The Baran Do Sages often acted as advisers to rich and powerful Kel Dor families. Kel Dors were noted for their simple approach to justice, and they typically saw moral issues in black and white. On the one hand, the Kel Dor were noted for their hospitality, they would never turn away a stranger in need. Yet, Kel Dors were not averse to taking the law into their own hands, and had no compunctions about putting to death a thief who was merely stealing to feed himself.\n\nKel Dor surnames, like Human surnames, were based on ancient family trades or jobs, or even a description of a particularly famous Kel Dor in the family. The Koon family name, for example, meant 'explorer'. Kel Dor names tended to be short, usually monosyllabic, due to an ancient superstition about the \\\"wind spirits\\\" of Dorin. No one believed in this myth for thousands of years, but the effect it had on Kel Dor naming conventions remained."
     }
   ]
 }
