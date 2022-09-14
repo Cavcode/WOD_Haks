@@ -1,1 +1,1 @@
-nwn_tlk -i ./swlor2_tlk/swlor2_tlk.tlk -o ./swlor2_tlk/swlor2_tlk.tlk.json -p
+nwn_tlk -i ./wod_tlk/wod_tlk.tlk -o ./wod_tlk/wod_tlk.tlk.json -p
