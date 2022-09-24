@@ -1,0 +1,10 @@
+// Renderhint
+renderhint NormalAndSpecMapped
+
+// Textures
+texture0 church_wall 
+texture1 church_wall_n
+texture2 church_wall_m
+texture3 church_wall_r
+texture4 
+texture5 

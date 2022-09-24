@@ -1,0 +1,10 @@
+// Renderhint
+renderhint NormalAndSpecMapped
+
+// Textures
+texture0 wod_candle 
+texture1 wod_candle_n
+texture2 wod_candle_s
+texture3 
+texture4 
+texture5 wod_candle_i

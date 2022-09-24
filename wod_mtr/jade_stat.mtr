@@ -1,0 +1,10 @@
+// Renderhint
+renderhint NormalAndSpecMapped
+
+// Textures
+texture0 jade_stat 
+texture1 jade_stat_n
+texture2 jade_stat_s
+texture3 
+texture4 
+texture5 

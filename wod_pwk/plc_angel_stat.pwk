@@ -1,0 +1,36 @@
+node dummy tat_pwk_use01
+  parent plc_angel_stat_pwk
+  position -0.17000 -3.89000  0.00000
+  orientation  0.00000  1.00000  0.00000  0.00000
+endnode
+node dummy tat_pwk_use02
+  parent plc_angel_stat_pwk
+  position -0.17000  4.90000  0.00000
+  orientation  0.00000  1.00000  0.00000  0.00000
+endnode
+node trimesh tat_wg
+  parent plc_angel_stat_pwk
+  position  0.00000  2.27799 -2.10570
+  orientation  0.00000  1.00000  0.00000  0.00000
+  wirecolor 1.00 1.00 1.00
+  verts 8
+     4.63717  4.39755  0.00000
+    -4.96735  4.39755  0.00000
+    -4.96735 -3.39050  0.00000
+     4.63717 -3.39050  0.00000
+     4.15694  4.00815  2.00097
+    -4.48712  4.00815  2.00097
+    -4.48712 -3.00110  2.00097
+     4.15694 -3.00110  2.00097
+  faces 10
+    5 7 4 1  0 0 0 0
+    1 4 0 1  0 0 0 0
+    2 5 1 1  0 0 0 0
+    3 4 7 2  0 0 0 0
+    3 6 2 1  0 0 0 0
+    5 6 7 2  0 0 0 0
+    1 5 4 2  0 0 0 0
+    2 6 5 4  0 0 0 0
+    3 0 4 4  0 0 0 0
+    3 7 6 4  0 0 0 0
+endnode

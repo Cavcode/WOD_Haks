@@ -1,0 +1,10 @@
+// Renderhint
+renderhint NormalAndSpecMapped
+
+// Textures
+texture0 gothic_ch 
+texture1 gothic_ch_n
+texture2 
+texture3 
+texture4 
+texture5 gothic_ch_i

@@ -1,0 +1,10 @@
+// Renderhint
+renderhint NormalAndSpecMapped
+
+// Textures
+texture0 floortil
+texture1 floortil_n
+texture2 
+texture3 
+texture4 
+texture5 
