@@ -1,0 +1,13 @@
+customshadervs vslit_nm
+customshaderfs fslit_nm  
+renderhint NormalTangents
+ 
+// Textures 
+texture0 00cract1
+texture1 00cract1_n
+texture2 00cract1_s
+texture3 null
+texture4 null
+
+parameter float Specularity 0.65
+parameter float Roughness 0.35

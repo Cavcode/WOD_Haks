@@ -1,0 +1,13 @@
+customshadervs vslit_nm
+customshaderfs fslit_nm  
+renderhint NormalTangents
+ 
+// Textures 
+texture0 corev_door
+texture1 corev_door_n
+texture2 corev_door_s
+texture3 null
+texture4 null
+
+parameter float Specularity 0.65
+parameter float Roughness 0.35

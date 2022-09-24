@@ -1,0 +1,13 @@
+customshadervs vslit_nm
+customshaderfs fslit_nm  
+renderhint NormalTangents
+ 
+// Textures 
+texture0 brown_metal
+texture1 brown_metal_n
+texture2 brown_metal_s
+texture3 null
+texture4 null
+
+parameter float Specularity 0.65
+parameter float Roughness 0.35
